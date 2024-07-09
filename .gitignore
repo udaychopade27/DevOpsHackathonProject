@@ -1,0 +1,27 @@
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+.vscode/
+*.code-workspace
+
+.npm/
+
+package*.json
+
